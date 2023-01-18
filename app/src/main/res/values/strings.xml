@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SENG449-BonusMVVM</string>
+    <string name="error_occured_while_loading_the_data">Error occured while loading the data</string>
+</resources>
